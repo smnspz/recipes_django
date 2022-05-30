@@ -1,0 +1,29 @@
+### Python ###
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Unit test / coverage reports
+.coverage
+htmlcov/
+coverage.xml
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Environments
+.env
+.envs/*
+!.envs/test
+
+# macOS
+.DS_Store
+
+# Custom
+.rob
